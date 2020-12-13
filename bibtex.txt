@@ -1,0 +1,132 @@
+@inproceedings{zhao2020bottom,
+  title={Bottom-up temporal action localization with mutual regularization},
+  author={Zhao, Peisen and Xie, Lingxi and Ju, Chen and Zhang, Ya and Wang, Yanfeng and Tian, Qi},
+  booktitle={European Conference on Computer Vision},
+  pages={539--555},
+  year={2020},
+  organization={Springer}
+}
+@inproceedings{narayan20193c,
+  title={3c-net: Category count and center loss for weakly-supervised action localization},
+  author={Narayan, Sanath and Cholakkal, Hisham and Khan, Fahad Shahbaz and Shao, Ling},
+  booktitle={Proceedings of the IEEE International Conference on Computer Vision},
+  pages={8679--8687},
+  year={2019}
+}
+@inproceedings{nguyen2019weakly,
+  title={Weakly-supervised action localization with background modeling},
+  author={Nguyen, Phuc Xuan and Ramanan, Deva and Fowlkes, Charless C},
+  booktitle={Proceedings of the IEEE International Conference on Computer Vision},
+  pages={5502--5511},
+  year={2019}
+}
+@article{huang2020relational,
+  title={Relational Prototypical Network for Weakly Supervised Temporal Action Localization},
+  author={Huang, Linjiang and Huang, Yan and Ouyang, Wanli and Wang, Liang and others},
+  year={2020}
+}
+@inproceedings{liu2019weakly,
+  title={Weakly supervised temporal action localization through contrast based evaluation networks},
+  author={Liu, Ziyi and Wang, Le and Zhang, Qilin and Gao, Zhanning and Niu, Zhenxing and Zheng, Nanning and Hua, Gang},
+  booktitle={Proceedings of the IEEE International Conference on Computer Vision},
+  pages={3899--3908},
+  year={2019}
+}
+@article{schwerdtfeger2007intergenerational,
+  title={Intergenerational transmission of trauma: Exploring mother--infant prenatal attachment},
+  author={Schwerdtfeger, Kami L and Goff, Briana S Nelson},
+  journal={Journal of traumatic stress},
+  volume={20},
+  number={1},
+  pages={39--51},
+  year={2007},
+  publisher={Wiley Online Library}
+}
+@inproceedings{joanne2008effect,
+  title={Effect of exercise on biomarkers, fatigue, sleep disturbances, and depressive symptoms in older women with breast cancer receiving hormonal therapy},
+  author={Joanne Held, BSN and Shaw, Heather and others},
+  booktitle={Oncology nursing forum},
+  volume={35},
+  number={4},
+  pages={635},
+  year={2008},
+  organization={Oncology Nursing Society}
+}
+@article{singh2004new,
+  title={New Precision Measurement of the H e 3 (H e 4, $\gamma$) B e 7 Cross Section},
+  author={Singh, BS Nara and Hass, M and Nir-El, Y and Haquin, G},
+  journal={Physical review letters},
+  volume={93},
+  number={26},
+  pages={262503},
+  year={2004},
+  publisher={APS}
+}
+@article{rao1982tannin,
+  title={Tannin content of foods commonly consumed in India and its influence on ionisable iron},
+  author={Rao, Bagepalli S Narasinga and Prabhavathi, Tatineni},
+  journal={Journal of the Science of Food and Agriculture},
+  volume={33},
+  number={1},
+  pages={89--96},
+  year={1982},
+  publisher={Wiley Online Library}
+}
+@article{ravi1997nonequilibrium,
+  title={Nonequilibrium simulated-annealing algorithm applied to reliability optimization of complex systems},
+  author={Ravi, V and Murty, BSN and Reddy, J},
+  journal={IEEE Transactions on Reliability},
+  volume={46},
+  number={2},
+  pages={233--239},
+  year={1997},
+  publisher={IEEE}
+}
+@article{cederwall2011evidence,
+  title={Evidence for a spin-aligned neutron--proton paired phase from the level structure of 92 Pd},
+  author={Cederwall, Bo and Moradi, F Ghazi and B{\"a}ck, Torbj{\"o}rn and Johnson, Arne and Blomqvist, J and Cl{\'e}ment, E and De France, G and Wadsworth, R and Andgren, Karin and Lagergren, Karin and others},
+  journal={Nature},
+  volume={469},
+  number={7328},
+  pages={68--71},
+  year={2011},
+  publisher={Nature Publishing Group}
+}
+@article{goff2005systemic,
+  title={Systemic traumatic stress: The couple adaptation to traumatic stress model},
+  author={Goff, Briana S Nelson and Smith, Douglas B},
+  journal={Journal of marital and family therapy},
+  volume={31},
+  number={2},
+  pages={145--157},
+  year={2005},
+  publisher={Wiley Online Library}
+}
+@article{goff2007impact,
+  title={The impact of individual trauma symptoms of deployed soldiers on relationship satisfaction.},
+  author={Goff, Briana S Nelson and Crow, Janet R and Reisbig, Allison MJ and Hamilton, Stacy},
+  journal={Journal of Family Psychology},
+  volume={21},
+  number={3},
+  pages={344},
+  year={2007},
+  publisher={American Psychological Association}
+}
+@article{powers2018aha,
+  title={AHA/ASA Guideline},
+  author={Powers, William J and Rabinstein, Alejandro A and Teri Ackerson, BSN and Adeoye, Opeolu M and Bambakidis, Nicholas C and Becker, Kyra and Biller, Jos{\'e} and Brown, Michael and Demaerschalk, Bart M and Hoh, Brian and others},
+  journal={Stroke},
+  volume={49},
+  pages={e46--e99},
+  year={2018}
+}
+@article{nanda2004intralesional,
+  title={Intralesional 5-fluorouracil as a treatment modality of keloids},
+  author={Nanda, Soni and Reddy, Belum Seva Negi},
+  journal={Dermatologic surgery},
+  volume={30},
+  number={1},
+  pages={54--57},
+  year={2004},
+  publisher={Wiley Online Library}
+}
