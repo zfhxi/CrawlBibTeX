@@ -1,0 +1,23 @@
+End-to-end learning of action detection from frame glimpses in videos
+Temporal Unit Regression Network for Temporal Action Proposals
+Single-Stream Temporal Action Proposals 
+Action search: Spotting targets in videos and its application to temporal action localization.
+Adversarial Seeded Sequence Growing for Weakly- Supervised Temporal Action Localization
+Temporal Action Localization in Untrimmed Videos via Multi-stage CNNs.CVPR 2016. Zheng Shou and Dongang Wang and Shih-Fu Chang
+Fast r-cnn
+Rich feature hierarchies for accurate object detection and semantic segmentation
+You only look once: Unified, real-time object detection
+Temporal action detection with structured segment networks
+Convolutional-de-convolutional networks for precise temporal action localization in untrimmed videos
+Boundary-Matching Network for Temporal Action Proposal Generation
+Single Shot MultiBox Detector
+End-to-End, Single-Stream Temporal Action Detection in Untrimmed Videos
+Untrimmednets for weakly supervised action recognition and detection.
+Hide-and-seek: Forcing a network to be meticulous for weakly-supervised object and action localization
+Step-by-step erasion, one-by-one collection: a weakly supervised temporal action detector
+Adversarial seeded sequence growing for weakly-supervised temporal action localization
+Weakly-supervised action localization with background modeling
+Background suppression network for weakly-supervised temporal action localization
+Weakly-supervised action localization by generative attention modeling
+ACSNet: Action-Context Separation Network for Weakly Supervised Temporal Action Localization
+Weakly-supervised Temporal Action Localization by Uncertainty Modeling

@@ -1,0 +1,445 @@
+@inproceedings{yeung2016end,
+  title={End-to-end learning of action detection from frame glimpses in videos},
+  author={Yeung, Serena and Russakovsky, Olga and Mori, Greg and Fei-Fei, Li},
+  booktitle={Proceedings of the IEEE conference on computer vision and pattern recognition},
+  pages={2678--2687},
+  year={2016}
+}
+@inproceedings{lin2018bsn,
+  title={Bsn: Boundary sensitive network for temporal action proposal generation},
+  author={Lin, Tianwei and Zhao, Xu and Su, Haisheng and Wang, Chongjing and Yang, Ming},
+  booktitle={Proceedings of the European Conference on Computer Vision (ECCV)},
+  pages={3--19},
+  year={2018}
+}
+@inproceedings{lin2020fast,
+  title={Fast learning of temporal action proposal via dense boundary generator},
+  author={Lin, Chuming and Li, Jian and Wang, Yabiao and Tai, Ying and Luo, Donghao and Cui, Zhipeng and Wang, Chengjie and Li, Jilin and Huang, Feiyue and Ji, Rongrong},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={34},
+  number={07},
+  pages={11499--11506},
+  year={2020}
+}
+@article{wang2019multi,
+  title={Multi-scale aggregation network for temporal action proposals},
+  author={Wang, Zheng and Chen, Kai and Zhang, Mingxing and He, Peilin and Wang, Yajie and Zhu, Ping and Yang, Yang},
+  journal={Pattern Recognition Letters},
+  volume={122},
+  pages={60--65},
+  year={2019},
+  publisher={Elsevier}
+}
+@inproceedings{li2019bidirectional,
+  title={Bidirectional Single-Stream Temporal Sentence Query Localization in Untrimmed Videos},
+  author={Li, Cheng and Zhao, Yuming and Peng, Shihao and Chen, Jinting},
+  booktitle={2019 IEEE International Conference on Image Processing (ICIP)},
+  pages={270--274},
+  year={2019},
+  organization={IEEE}
+}
+@article{chamics,
+  title={CS 231N Final Report: Single-Stream Action Proposals in Videos},
+  author={Chami, Ines}
+}
+@inproceedings{huang2019decoupling,
+  title={Decoupling localization and classification in single shot temporal action detection},
+  author={Huang, Yupan and Dai, Qi and Lu, Yutong},
+  booktitle={2019 IEEE International Conference on Multimedia and Expo (ICME)},
+  pages={1288--1293},
+  year={2019},
+  organization={IEEE}
+}
+@inproceedings{chao2018rethinking,
+  title={Rethinking the faster r-cnn architecture for temporal action localization},
+  author={Chao, Yu-Wei and Vijayanarasimhan, Sudheendra and Seybold, Bryan and Ross, David A and Deng, Jia and Sukthankar, Rahul},
+  booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
+  pages={1130--1139},
+  year={2018}
+}
+@article{long2019coarse,
+  title={Coarse-to-fine localization of temporal action proposals},
+  author={Long, Fuchen and Yao, Ting and Qiu, Zhaofan and Tian, Xinmei and Mei, Tao and Luo, Jiebo},
+  journal={IEEE Transactions on Multimedia},
+  volume={22},
+  number={6},
+  pages={1577--1590},
+  year={2019},
+  publisher={IEEE}
+}
+@inproceedings{schlosser2019investigation,
+  title={Investigation on combining 3d convolution of image data and optical flow to generate temporal action proposals},
+  author={Schlosser, Patrick and Munch, David and Arens, Michael},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops},
+  pages={0--0},
+  year={2019}
+}
+@inproceedings{gao2018ctap,
+  title={Ctap: Complementary temporal action proposal generation},
+  author={Gao, Jiyang and Chen, Kan and Nevatia, Ram},
+  booktitle={Proceedings of the European conference on computer vision (ECCV)},
+  pages={68--83},
+  year={2018}
+}
+@article{kaustend,
+  title={End-to-End, Single-Stream Temporal Action Detection in Untrimmed Videos},
+  author={KAUST, KSA}
+}
+@inproceedings{buch2017sst,
+  title={Sst: Single-stream temporal action proposals},
+  author={Buch, Shyamal and Escorcia, Victor and Shen, Chuanqi and Ghanem, Bernard and Carlos Niebles, Juan},
+  booktitle={Proceedings of the IEEE conference on Computer Vision and Pattern Recognition},
+  pages={2911--2920},
+  year={2017}
+}
+@article{alwassel10action,
+  title={Action Search: Spotting Actions in Videos and Its Application to Temporal Action Localization (Supplementary Material)},
+  author={Alwassel, Humam and Heilbron, Fabian Caba and Ghanem, Bernard},
+  journal={Target},
+  volume={10},
+  pages={20}
+}
+@inproceedings{alwassel2018action,
+  title={Action search: Spotting actions in videos and its application to temporal action localization},
+  author={Alwassel, Humam and Heilbron, Fabian Caba and Ghanem, Bernard},
+  booktitle={Proceedings of the European Conference on Computer Vision (ECCV)},
+  pages={251--266},
+  year={2018}
+}
+@inproceedings{zhang2019adversarial,
+  title={Adversarial seeded sequence growing for weakly-supervised temporal action localization},
+  author={Zhang, Chengwei and Xu, Yunlu and Cheng, Zhanzhan and Niu, Yi and Pu, Shiliang and Wu, Fei and Zou, Futai},
+  booktitle={Proceedings of the 27th ACM international conference on multimedia},
+  pages={738--746},
+  year={2019}
+}
+@inproceedings{wang2016use,
+  title={Use fast R-CNN and cascade structure for face detection},
+  author={Wang, Kai and Dong, Yuan and Bai, Hongliang and Zhao, Yu and Hu, Kun},
+  booktitle={2016 Visual Communications and Image Processing (VCIP)},
+  pages={1--4},
+  year={2016},
+  organization={IEEE}
+}
+@article{ren2016faster,
+  title={Faster R-CNN: towards real-time object detection with region proposal networks},
+  author={Ren, Shaoqing and He, Kaiming and Girshick, Ross and Sun, Jian},
+  journal={IEEE transactions on pattern analysis and machine intelligence},
+  volume={39},
+  number={6},
+  pages={1137--1149},
+  year={2016},
+  publisher={IEEE}
+}
+@inproceedings{hsu2018vehicle,
+  title={Vehicle detection using simplified fast R-CNN},
+  author={Hsu, Shih-Chung and Huang, Chung-Lin and Chuang, Cheng-Hung},
+  booktitle={2018 International Workshop on Advanced Image Technology (IWAIT)},
+  pages={1--3},
+  year={2018},
+  organization={IEEE}
+}
+@inproceedings{jiang2017face,
+  title={Face detection with the faster R-CNN},
+  author={Jiang, Huaizu and Learned-Miller, Erik},
+  booktitle={2017 12th IEEE international conference on automatic face \& gesture recognition (FG 2017)},
+  pages={650--657},
+  year={2017},
+  organization={IEEE}
+}
+@article{ren2015faster,
+  title={Faster r-cnn: Towards real-time object detection with region proposal networks},
+  author={Ren, Shaoqing and He, Kaiming and Girshick, Ross and Sun, Jian},
+  journal={Advances in neural information processing systems},
+  volume={28},
+  pages={91--99},
+  year={2015}
+}
+@inproceedings{kirillov2019panoptic,
+  title={Panoptic feature pyramid networks},
+  author={Kirillov, Alexander and Girshick, Ross and He, Kaiming and Doll{\'a}r, Piotr},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={6399--6408},
+  year={2019}
+}
+@inproceedings{chen2018masklab,
+  title={Masklab: Instance segmentation by refining object detection with semantic and direction features},
+  author={Chen, Liang-Chieh and Hermans, Alexander and Papandreou, George and Schroff, Florian and Wang, Peng and Adam, Hartwig},
+  booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
+  pages={4013--4022},
+  year={2018}
+}
+@article{jitendramalikrich,
+  title={Rich feature hierarchies for accurate object detection and semantic segmentation Supplementary material},
+  author={JitendraMalik, RossGirshick JeffDonahue TrevorDarrell},
+  publisher={Citeseer}
+}
+@inproceedings{dai2015boxsup,
+  title={Boxsup: Exploiting bounding boxes to supervise convolutional networks for semantic segmentation},
+  author={Dai, Jifeng and He, Kaiming and Sun, Jian},
+  booktitle={Proceedings of the IEEE international conference on computer vision},
+  pages={1635--1643},
+  year={2015}
+}
+@inproceedings{lin2017feature,
+  title={Feature pyramid networks for object detection},
+  author={Lin, Tsung-Yi and Doll{\'a}r, Piotr and Girshick, Ross and He, Kaiming and Hariharan, Bharath and Belongie, Serge},
+  booktitle={Proceedings of the IEEE conference on computer vision and pattern recognition},
+  pages={2117--2125},
+  year={2017}
+}
+@article{wang2015transferring,
+  title={Transferring rich feature hierarchies for robust visual tracking},
+  author={Wang, Naiyan and Li, Siyi and Gupta, Abhinav and Yeung, Dit-Yan},
+  journal={arXiv preprint arXiv:1501.04587},
+  year={2015}
+}
+@inproceedings{long2015fully,
+  title={Fully convolutional networks for semantic segmentation},
+  author={Long, Jonathan and Shelhamer, Evan and Darrell, Trevor},
+  booktitle={Proceedings of the IEEE conference on computer vision and pattern recognition},
+  pages={3431--3440},
+  year={2015}
+}
+@article{jitendramalikrich,
+  title={Rich feature hierarchies for accurate object detection and semantic segmentation},
+  author={JitendraMalik, RossGirshick JeffDonahue TrevorDarrell}
+}
+@inproceedings{gupta2014learning,
+  title={Learning rich features from RGB-D images for object detection and segmentation},
+  author={Gupta, Saurabh and Girshick, Ross and Arbel{\'a}ez, Pablo and Malik, Jitendra},
+  booktitle={European conference on computer vision},
+  pages={345--360},
+  year={2014},
+  organization={Springer}
+}
+@inproceedings{girshick2014rich,
+  title={Rich feature hierarchies for accurate object detection and semantic segmentation},
+  author={Girshick, Ross and Donahue, Jeff and Darrell, Trevor and Malik, Jitendra},
+  booktitle={Proceedings of the IEEE conference on computer vision and pattern recognition},
+  pages={580--587},
+  year={2014}
+}
+@inproceedings{redmon2016you,
+  title={You only look once: Unified, real-time object detection},
+  author={Redmon, Joseph and Divvala, Santosh and Girshick, Ross and Farhadi, Ali},
+  booktitle={Proceedings of the IEEE conference on computer vision and pattern recognition},
+  pages={779--788},
+  year={2016}
+}
+@inproceedings{liu2020progressive,
+  title={Progressive boundary refinement network for temporal action detection},
+  author={Liu, Qinying and Wang, Zilei},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={34},
+  number={07},
+  pages={11612--11619},
+  year={2020}
+}
+@inproceedings{zhang2019boundary,
+  title={Boundary information matters more: Accurate temporal action detection with temporal boundary network},
+  author={Zhang, Tao and Liu, Shan and Li, Thomas and Li, Ge},
+  booktitle={ICASSP 2019-2019 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
+  pages={1642--1646},
+  year={2019},
+  organization={IEEE}
+}
+@inproceedings{zeng2019graph,
+  title={Graph convolutional networks for temporal action localization},
+  author={Zeng, Runhao and Huang, Wenbing and Tan, Mingkui and Rong, Yu and Zhao, Peilin and Huang, Junzhou and Gan, Chuang},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+  pages={7094--7103},
+  year={2019}
+}
+@inproceedings{lin2018bsn,
+  title={Bsn: Boundary sensitive network for temporal action proposal generation},
+  author={Lin, Tianwei and Zhao, Xu and Su, Haisheng and Wang, Chongjing and Yang, Ming},
+  booktitle={Proceedings of the European Conference on Computer Vision (ECCV)},
+  pages={3--19},
+  year={2018}
+}
+@inproceedings{xu2020g,
+  title={G-tad: Sub-graph localization for temporal action detection},
+  author={Xu, Mengmeng and Zhao, Chen and Rojas, David S and Thabet, Ali and Ghanem, Bernard},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={10156--10165},
+  year={2020}
+}
+@inproceedings{chao2018rethinking,
+  title={Rethinking the faster r-cnn architecture for temporal action localization},
+  author={Chao, Yu-Wei and Vijayanarasimhan, Sudheendra and Seybold, Bryan and Ross, David A and Deng, Jia and Sukthankar, Rahul},
+  booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
+  pages={1130--1139},
+  year={2018}
+}
+@inproceedings{gao2018ctap,
+  title={Ctap: Complementary temporal action proposal generation},
+  author={Gao, Jiyang and Chen, Kan and Nevatia, Ram},
+  booktitle={Proceedings of the European conference on computer vision (ECCV)},
+  pages={68--83},
+  year={2018}
+}
+@article{chen2019relation,
+  title={Relation attention for temporal action localization},
+  author={Chen, Peihao and Gan, Chuang and Shen, Guangyao and Huang, Wenbing and Zeng, Runhao and Tan, Mingkui},
+  journal={IEEE Transactions on Multimedia},
+  volume={22},
+  number={10},
+  pages={2723--2733},
+  year={2019},
+  publisher={IEEE}
+}
+@article{zhaotemporal,
+  title={Temporal Action Detection with Structured Segment Networks Supplementary Materials},
+  author={Zhao, Yue and Xiong, Yuanjun and Wang, Limin and Wu, Zhirong and Tang, Xiaoou and Lin, Dahua}
+}
+@inproceedings{zhao2017temporal,
+  title={Temporal action detection with structured segment networks},
+  author={Zhao, Yue and Xiong, Yuanjun and Wang, Limin and Wu, Zhirong and Tang, Xiaoou and Lin, Dahua},
+  booktitle={Proceedings of the IEEE International Conference on Computer Vision},
+  pages={2914--2923},
+  year={2017}
+}
+@inproceedings{shou2017cdc,
+  title={Cdc: Convolutional-de-convolutional networks for precise temporal action localization in untrimmed videos},
+  author={Shou, Zheng and Chan, Jonathan and Zareian, Alireza and Miyazawa, Kazuyuki and Chang, Shih-Fu},
+  booktitle={Proceedings of the IEEE conference on computer vision and pattern recognition},
+  pages={5734--5743},
+  year={2017}
+}
+@inproceedings{lin2019bmn,
+  title={Bmn: Boundary-matching network for temporal action proposal generation},
+  author={Lin, Tianwei and Liu, Xiao and Li, Xin and Ding, Errui and Wen, Shilei},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+  pages={3889--3898},
+  year={2019}
+}
+@article{pan2020tdfssd,
+  title={TDFSSD: Top-down feature fusion single shot MultiBox detector},
+  author={Pan, Haodong and Jiang, Jue and Chen, Guangfeng},
+  journal={Signal Processing: Image Communication},
+  volume={89},
+  pages={115987},
+  year={2020},
+  publisher={Elsevier}
+}
+@article{wang2018combining,
+  title={Combining a single shot multibox detector with transfer learning for ship detection using sentinel-1 SAR images},
+  author={Wang, Yuanyuan and Wang, Chao and Zhang, Hong},
+  journal={Remote sensing letters},
+  volume={9},
+  number={8},
+  pages={780--788},
+  year={2018},
+  publisher={Taylor \& Francis}
+}
+@article{yi2019assd,
+  title={ASSD: Attentive single shot multibox detector},
+  author={Yi, Jingru and Wu, Pengxiang and Metaxas, Dimitris N},
+  journal={Computer Vision and Image Understanding},
+  volume={189},
+  pages={102827},
+  year={2019},
+  publisher={Elsevier}
+}
+@inproceedings{zheng2018extend,
+  title={Extend the shallow part of single shot multibox detector via convolutional neural network},
+  author={Zheng, Liwen and Fu, Canmiao and Zhao, Yong},
+  booktitle={Tenth International Conference on Digital Image Processing (ICDIP 2018)},
+  volume={10806},
+  pages={1080613},
+  year={2018},
+  organization={International Society for Optics and Photonics}
+}
+@article{miao2019insulator,
+  title={Insulator detection in aerial images for transmission line inspection using single shot multibox detector},
+  author={Miao, Xiren and Liu, Xinyu and Chen, Jing and Zhuang, Shengbin and Fan, Jianwei and Jiang, Hao},
+  journal={IEEE Access},
+  volume={7},
+  pages={9945--9956},
+  year={2019},
+  publisher={IEEE}
+}
+@article{li2017fssd,
+  title={FSSD: feature fusion single shot multibox detector},
+  author={Li, Zuoxin and Zhou, Fuqiang},
+  journal={arXiv preprint arXiv:1712.00960},
+  year={2017}
+}
+@inproceedings{ning2017inception,
+  title={Inception single shot multibox detector for object detection},
+  author={Ning, Chengcheng and Zhou, Huajun and Song, Yan and Tang, Jinhui},
+  booktitle={2017 IEEE International Conference on Multimedia \& Expo Workshops (ICMEW)},
+  pages={549--554},
+  year={2017},
+  organization={IEEE}
+}
+@article{nagrath2021ssdmnv2,
+  title={SSDMNV2: A real time DNN-based face mask detection system using single shot multibox detector and MobileNetV2},
+  author={Nagrath, Preeti and Jain, Rachna and Madan, Agam and Arora, Rohan and Kataria, Piyush and Hemanth, Jude},
+  journal={Sustainable cities and society},
+  volume={66},
+  pages={102692},
+  year={2021},
+  publisher={Elsevier}
+}
+@article{kumar2020object,
+  title={Object detection system based on convolution neural networks using single shot multi-box detector},
+  author={Kumar, Ashwani and Srivastava, Sonam},
+  journal={Procedia Computer Science},
+  volume={171},
+  pages={2610--2617},
+  year={2020},
+  publisher={Elsevier}
+}
+@inproceedings{liu2016ssd,
+  title={Ssd: Single shot multibox detector},
+  author={Liu, Wei and Anguelov, Dragomir and Erhan, Dumitru and Szegedy, Christian and Reed, Scott and Fu, Cheng-Yang and Berg, Alexander C},
+  booktitle={European conference on computer vision},
+  pages={21--37},
+  year={2016},
+  organization={Springer}
+}
+@inproceedings{wang2017untrimmednets,
+  title={Untrimmednets for weakly supervised action recognition and detection},
+  author={Wang, Limin and Xiong, Yuanjun and Lin, Dahua and Van Gool, Luc},
+  booktitle={Proceedings of the IEEE conference on Computer Vision and Pattern Recognition},
+  pages={4325--4334},
+  year={2017}
+}
+@inproceedings{kumar2017hide,
+  title={Hide-and-seek: Forcing a network to be meticulous for weakly-supervised object and action localization},
+  author={Kumar Singh, Krishna and Jae Lee, Yong},
+  booktitle={Proceedings of the IEEE International Conference on Computer Vision},
+  pages={3524--3533},
+  year={2017}
+}
+@inproceedings{singh2017hide,
+  title={Hide-and-seek: Forcing a network to be meticulous for weakly-supervised object and action localization},
+  author={Singh, Krishna Kumar and Lee, Yong Jae},
+  booktitle={2017 IEEE international conference on computer vision (ICCV)},
+  pages={3544--3553},
+  year={2017},
+  organization={IEEE}
+}
+@inproceedings{zhong2018step,
+  title={Step-by-step erasion, one-by-one collection: a weakly supervised temporal action detector},
+  author={Zhong, Jia-Xing and Li, Nannan and Kong, Weijie and Zhang, Tao and Li, Thomas H and Li, Ge},
+  booktitle={Proceedings of the 26th ACM international conference on Multimedia},
+  pages={35--44},
+  year={2018}
+}
+@inproceedings{zhang2019adversarial,
+  title={Adversarial seeded sequence growing for weakly-supervised temporal action localization},
+  author={Zhang, Chengwei and Xu, Yunlu and Cheng, Zhanzhan and Niu, Yi and Pu, Shiliang and Wu, Fei and Zou, Futai},
+  booktitle={Proceedings of the 27th ACM international conference on multimedia},
+  pages={738--746},
+  year={2019}
+}
+@inproceedings{nguyen2019weakly,
+  title={Weakly-supervised action localization with background modeling},
+  author={Nguyen, Phuc Xuan and Ramanan, Deva and Fowlkes, Charless C},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+  pages={5502--5511},
+  year={2019}
+}

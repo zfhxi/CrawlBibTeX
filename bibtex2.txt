@@ -1,0 +1,103 @@
+@inproceedings{paul2018w,
+  title={W-talc: Weakly-supervised temporal activity localization and classification},
+  author={Paul, Sujoy and Roy, Sourya and Roy-Chowdhury, Amit K},
+  booktitle={Proceedings of the European Conference on Computer Vision (ECCV)},
+  pages={563--579},
+  year={2018}
+}
+@inproceedings{liu2019completeness,
+  title={Completeness modeling and context separation for weakly supervised temporal action localization},
+  author={Liu, Daochang and Jiang, Tingting and Wang, Yizhou},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={1298--1307},
+  year={2019}
+}
+@inproceedings{liu2019weakly,
+  title={Weakly supervised temporal action localization through contrast based evaluation networks},
+  author={Liu, Ziyi and Wang, Le and Zhang, Qilin and Gao, Zhanning and Niu, Zhenxing and Zheng, Nanning and Hua, Gang},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+  pages={3899--3908},
+  year={2019}
+}
+@article{leweakly,
+  title={Weakly Supervised Temporal Action Localization through Contrast based Evaluation Networks},
+  author={Le Wang, Ziyi Liu and Zhang, Qilin and Gao, Zhanning and Niu, Zhenxing and Zheng, Nanning and Hua, Gang}
+}
+@inproceedings{zhang2020multi,
+  title={Multi-instance multi-label action recognition and localization based on spatio-temporal pre-trimming for untrimmed videos},
+  author={Zhang, Xiao-Yu and Shi, Haichao and Li, Changsheng and Li, Peng},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={34},
+  number={07},
+  pages={12886--12893},
+  year={2020}
+}
+@inproceedings{luo2020weakly,
+  title={Weakly-supervised action localization with expectation-maximization multi-instance learning},
+  author={Luo, Zhekun and Guillory, Devin and Shi, Baifeng and Ke, Wei and Wan, Fang and Darrell, Trevor and Xu, Huijuan},
+  booktitle={European conference on computer vision},
+  pages={729--745},
+  year={2020},
+  organization={Springer}
+}
+@inproceedings{zhai2020two,
+  title={Two-stream consensus network for weakly-supervised temporal action localization: Supplementary material},
+  author={Zhai, Yuanhao and Wang, Le and Tang, Wei and Zhang, Qilin and Yuan, Junsong and Hua, Gang},
+  booktitle={Proceedings of the European Conference on Computer Vision},
+  year={2020}
+}
+@article{pardo2021humamalwassel,
+  title={HumamAlwassel/RefineLoc: RefineLoc: Iterative Refinement for Weakly-Supervised Action Localization (WACV 2021)},
+  author={Pardo, Alejandro and Alwassel, Humam and Heilbron, Fabian Caba and Thabet, Ali Kassem and Ghanem, Bernard},
+  year={2021},
+  publisher={Github}
+}
+@inproceedings{huang2021foreground,
+  title={Foreground-Action Consistency Network for Weakly Supervised Temporal Action Localization},
+  author={Huang, Linjiang and Wang, Liang and Li, Hongsheng},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+  pages={8002--8011},
+  year={2021}
+}
+@inproceedings{luo2020weakly,
+  title={Weakly-supervised action localization with expectation-maximization multi-instance learning},
+  author={Luo, Zhekun and Guillory, Devin and Shi, Baifeng and Ke, Wei and Wan, Fang and Darrell, Trevor and Xu, Huijuan},
+  booktitle={European conference on computer vision},
+  pages={729--745},
+  year={2020},
+  organization={Springer}
+}
+@inproceedings{narayan2021d2,
+  title={D2-Net: Weakly-supervised action localization via discriminative embeddings and denoised activations},
+  author={Narayan, Sanath and Cholakkal, Hisham and Hayat, Munawar and Khan, Fahad Shahbaz and Yang, Ming-Hsuan and Shao, Ling},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+  pages={13608--13617},
+  year={2021}
+}
+@article{alwassel2019refineloc,
+  title={Refineloc: Iterative refinement for weakly-supervised action localization},
+  author={Alwassel, Humam and Heilbron, Fabian Caba and Thabet, Ali and Ghanem, Bernard},
+  year={2019},
+  publisher={arXiv}
+}
+@inproceedings{pardo2021refineloc,
+  title={Refineloc: Iterative refinement for weakly-supervised action localization},
+  author={Pardo, Alejandro and Alwassel, Humam and Caba, Fabian and Thabet, Ali and Ghanem, Bernard},
+  booktitle={Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision},
+  pages={3319--3328},
+  year={2021}
+}
+@inproceedings{liu2021blessings,
+  title={The Blessings of Unlabeled Background in Untrimmed Videos},
+  author={Liu, Yuan and Chen, Jingyuan and Chen, Zhenfang and Deng, Bing and Huang, Jianqiang and Zhang, Hanwang},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={6176--6185},
+  year={2021}
+}
+@inproceedings{ji2021weakly,
+  title={Weakly-Supervised Temporal Action Localization via Cross-Stream Collaborative Learning},
+  author={Ji, Yuan and Jia, Xu and Lu, Huchuan and Ruan, Xiang},
+  booktitle={Proceedings of the 29th ACM International Conference on Multimedia},
+  pages={853--861},
+  year={2021}
+}

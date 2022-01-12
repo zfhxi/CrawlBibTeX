@@ -1,0 +1,29 @@
+@inproceedings{yao2020video,
+  title={Video playback rate perception for self-supervised spatio-temporal representation learning},
+  author={Yao, Yuan and Liu, Chang and Luo, Dezhao and Zhou, Yu and Ye, Qixiang},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={6548--6557},
+  year={2020}
+}
+@inproceedings{carreira2017quo,
+  title={Quo vadis, action recognition? a new model and the kinetics dataset},
+  author={Carreira, Joao and Zisserman, Andrew},
+  booktitle={proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
+  pages={6299--6308},
+  year={2017}
+}
+@misc{THUMOS14,
+     author = "Jiang, Y.-G. and Liu, J. and Roshan Zamir, A. and Toderici, G. and Laptev,
+     I. and Shah, M. and Sukthankar, R.",
+     title = "{THUMOS} Challenge: Action Recognition with a Large
+     Number of Classes",
+     howpublished = "\url{http://crcv.ucf.edu/THUMOS14/}",
+     Year = {2014}}
+
+@inproceedings{caba2015activitynet,
+  title={Activitynet: A large-scale video benchmark for human activity understanding},
+  author={Caba Heilbron, Fabian and Escorcia, Victor and Ghanem, Bernard and Carlos Niebles, Juan},
+  booktitle={Proceedings of the ieee conference on computer vision and pattern recognition},
+  pages={961--970},
+  year={2015}
+}
